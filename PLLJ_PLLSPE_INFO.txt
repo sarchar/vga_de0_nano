@@ -1,0 +1,5 @@
+PLL_Name	pixel_clock:inst|altpll:altpll_component|pixel_clock_altpll:auto_generated|pll1
+PLLJITTER	17
+PLLSPEmax	84
+PLLSPEmin	-53
+
